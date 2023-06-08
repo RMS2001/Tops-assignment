@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+  printf("MY NAME IS RAJ SAVALIYA");
+  printf("\nMY DATE OF BIRTH IS 21 SEPTEMBER 2001");
+  printf("\nI AM 21 YEARS OLD");
+  printf("\nMY ADDRESS IS:- 17 NANDINI ROW HOUSE GADHPUR ROAD KATHODARA GAM SURAT GUJARAT ");
+}
